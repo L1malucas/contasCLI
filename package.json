@@ -1,0 +1,27 @@
+{
+  "name": "contascli",
+  "version": "1.0.0",
+  "description": "Projeto em CLI, simulando gerenciamento de banco simples.",
+  "type": "module",
+  "exports": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L1malucas/contasCLI.git"
+  },
+  "keywords": [
+    "CLI",
+    "node"
+  ],
+  "author": "Lucas Lima",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/L1malucas/contasCLI/issues"
+  },
+  "homepage": "https://github.com/L1malucas/contasCLI#README",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
